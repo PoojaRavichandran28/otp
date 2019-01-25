@@ -1,0 +1,19 @@
+{
+  "name": "otp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "otp-generator": "^1.1.0",
+    "otplib": "^10.0.1",
+    "qrcode": "^1.3.3",
+    "sendotp": "^1.2.9",
+    "speakeasy": "^2.0.0"
+  }
+}
